@@ -1,4 +1,4 @@
-telegram_token: ""
+telegram_token: "6357795823:AAHB-OqfxVlzRZ3-x6MfQIh4tIEG6DleN8Y"
 openai_api_key: ""
 use_chatgpt_api: true
 allowed_telegram_usernames: []  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
@@ -8,6 +8,6 @@ n_chat_modes_per_page: 5
 enable_message_streaming: true  # if set, messages will be shown to user word-by-word
 
 # prices
-chatgpt_price_per_1000_tokens: 0.002
-gpt_price_per_1000_tokens: 0.02
-whisper_price_per_1_min: 0.006
+chatgpt_price_per_1000_tokens: 0.005
+gpt_price_per_1000_tokens: 0.05
+whisper_price_per_1_min: 0.010
